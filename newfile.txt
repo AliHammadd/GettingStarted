@@ -1,2 +1,4 @@
 i am making new file 
 adding email "alihammad@gmail.com"
+
+This is another change in newfile.txt
